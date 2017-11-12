@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates a .git folder where all the commits (changes and descriptions) will be saved.
+	You need to do it to start using git in a specified folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It does not is a commit, you can't see it in git log. So it is just a intermediate state.
+	It helps you to choose what files to save in a new commit.
