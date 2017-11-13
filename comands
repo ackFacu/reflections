@@ -1,3 +1,11 @@
+git clone: Clone a repository
+
+git init: Creates a repository
+
+git add file/folder: Add that folder to the staging area, previous a commit
+
+git status: shows your current status
+
 git log: Show log of commits
 	[--graph] Shows you the commits as a graph for easyer read
 	[--oneline] Show just a line for every commit
