@@ -1,0 +1,17 @@
+git log: Show log of commits
+
+git diff:
+	[diff com1 com2] compares commit 1 and commit 2
+	diff 
+
+git show com: Show a diff between a commit and his parent
+
+git branch: Show list of branches
+	branch [name]: Create a new branch from the one im in.
+	branch -d [name]: Delere the branch (just the refference, not the commits)
+
+git checkout com: Go to that commit (or branch)
+
+git merge branch1 branch2: Merge both branches into one. Merge branch2 into branch1
+
+
