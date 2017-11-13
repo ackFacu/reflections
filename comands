@@ -1,4 +1,7 @@
 git log: Show log of commits
+	[--graph] Shows you the commits as a graph for easyer read
+	[--oneline] Show just a line for every commit
+
 
 git diff compares the actuall files in the working area vs the ones in the stagged area
 	[diff com1 com2] compares commit 1 and commit 2
