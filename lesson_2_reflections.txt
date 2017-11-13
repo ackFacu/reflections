@@ -22,4 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 	There will be created a new commit that include the results of the two branchs merged.
 	We represent it that way, because the new commit has information of both parents.
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Merging automatically is very fast and does not requiere extra work, but it maybe break you code.
+	On the other hand, doing it manually can be tedious, especially if there has been so much changes.
