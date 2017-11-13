@@ -1,8 +1,8 @@
 git log: Show log of commits
 
-git diff:
+git diff compares the actuall files in the working area vs the ones in the stagged area
 	[diff com1 com2] compares commit 1 and commit 2
-	diff 
+	diff [--staged] compares the files in the stagged area vs the last commit
 
 git show com: Show a diff between a commit and his parent
 
