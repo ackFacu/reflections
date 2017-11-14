@@ -25,4 +25,7 @@ git checkout com: Go to that commit (or branch)
 
 git merge branch1 branch2: Merge both branches into one. Merge branch2 into branch1
 
+git remote: List remotes (ej github)
+	[add name url] add a remote. Usually the first is named origin
 
+git push [remote] [commit]: Push (upload) the commit into the remote
