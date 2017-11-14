@@ -15,3 +15,9 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	You can compare easily what changes has been made in the remote since you last check
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would colaborate dividing the program into pieces, and allowing some person to interact only withb some specified piece.
+	That's, divide and conquer. Each person make just a prederetimed piece of code. Then I put all together.
+	It can be harder because you have to agree with everyone the pieces of code BEFORE begining to code. Also, it would
+	be harder to someone new to start helping in the development.
