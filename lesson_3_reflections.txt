@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	You want to branch when you want to try some new code in your computer withoun breaking your main code.
 	clone is when you want to have a repository that exist in other computer, in your own.
 	fork is when you want to modify the repository of another person, without modyfing his own.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	You can compare easily what changes has been made in the remote since you last check
