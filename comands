@@ -31,3 +31,6 @@ git remote: List remotes (ej github)
 git push [remote] [commit]: Push (upload) the commit into the remote
 
 git pull [remote] [commit]: Pull (download) the remote into the commit
+
+git fetch: Updates the origin/master branch with the remote. Makes a new branch and dont touch the master branch.
+			After this, usually you want to make a git merge
